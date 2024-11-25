@@ -3,14 +3,14 @@
 
 
 ---
-<table>
+<table alight="center" style="border-collapse: collapse; border: none; margin-left:15">
   <tr>
-    <td>
+    <td style="border: none;">
       <h2>🌟 Welcome to My GitHub!</h2>
-      <p> I'm a Computer Science Master's student with a rich background in finance and law. Here's a little more about me:</p>
+      <p> I'm a Computer Science Master's student with a rich background in finance and law. <br>Here's a little more about me:</p>
       <h3>🧑‍💻 About Me</h3>
       <ul>
-        <li>🔭 <strong>Currently learning</strong>: JavaScript, HTML, CSS, Python, Java, PHP</li>
+        <li>🔭 <strong>Currently learning</strong>: Python, Java, HTML, CSS, JavaScript, PHP</li>
         <li>🎓 <strong>Educational journey</strong>:
           <ul>
             <li>Master's in Computer Science (current)</li>
@@ -22,11 +22,12 @@
         <li>🥋 <strong>Passion</strong>: Martial arts enthusiast</li>
       </ul>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" alt="Coding GIF">
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🚀 Skills & Tools
