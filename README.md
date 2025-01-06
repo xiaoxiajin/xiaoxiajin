@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="200" align="center" alt="Xiaoxia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xiaoxiajin&show_icons=true&locale=en&hide_border=true"/>
+<!--   <img height="200" align="center" alt="Xiaoxia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xiaoxiajin&show_icons=true&locale=en&hide_border=true"/> -->
   <img height="200" align="center" alt="Xiaoxia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaoxiajin&show_icons=true&locale=en&layout=compact&hide_border=true"/>
 </p>
 
